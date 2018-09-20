@@ -13,6 +13,7 @@ All user types contain the same basic information:
 
 As a user with an active account, when I login on the website with my correct email address and password, then I should be logged in without any errors
 
+MR
 As a user, when I log in, I want to view the donation inventory through searching, so that I can decide what to donate and what is available.
 
 As a user, when I log in, I should not be able to alter the donation inventory, because I don't want to falsify records.
