@@ -18,11 +18,11 @@ Given that I'm an user, when I log in, I should be able to view the donation inv
 
 Given that I'm an user, when I log in, I should not be able to alter the donation inventory, because I don't want to falsify records.
 
-Given that I'm an user, when I log in, I should be able to view the donation dropoff sites.
+Given that I'm an user, when I log in, I should be able to view the donation dropoff sites because I want to check which location I want to go to.
 
-Given that I'm an user, when I log in, I should not be able to alter the donation dropoff sites.
+Given that I'm an user, when I log in, I should not be able to alter the donation dropoff sites because that would be misleading and confusing.
 
-Given that I am a location employee, I should be able to update the current inventories for only my location.
+Given that I am a location employee, I should be able to update the current inventories for only my location, because I might otherwise create false records.
 
 I am an admin, I want to be able to view the category with the most amount of donations in order to distribute the donations.
 
