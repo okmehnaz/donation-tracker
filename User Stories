@@ -1,0 +1,21 @@
+User stories are short, simple descriptions of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system. They typically follow a simple template:
+
+Admin: An admin can add and remove users and locations as well as unlock/lock accounts.
+User: A user is anyone who wants to use the system to view inventory or locations. They cannot actually alter any information.Location Employee: A location employee is someone who works at one of the dropoff sites andcan update the current inventories for his or her location.
+Manager: Someone who can view/add/modify information at all locations.
+All user types contain the same basic information:
+•login name (in recognition of current popular trends, this can be the email address)
+•password
+•account state (locked or unlocked)
+•contact info (email address)
+•In addition to this information, a Location Employee should be linked to their location(Employees should only be able to edit information for their specific location).
+
+
+Given that I’m a user with an active account, when I login on the website with my correct email address and password, then I should be logged in without any errors
+
+Given that I'm an user, when I log in, I should be able to view the donation inventory for that day.
+
+Given that I am a location employee
+
+I am an admin, I want to be able to view the category with the most amount of donations in order to distribute the donations.
+
