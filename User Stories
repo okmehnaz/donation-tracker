@@ -14,9 +14,9 @@ All user types contain the same basic information:
 
 Given that I’m a user with an active account, when I login on the website with my correct email address and password, then I should be logged in without any errors
 
-Given that I'm an user, when I log in, I should be able to view the donation inventory.
+Given that I'm an user, when I log in, I should be able to view the donation inventory so that I can decide what to donate.
 
-Given that I'm an user, when I log in, I should not be able to alter the donation inventory.
+Given that I'm an user, when I log in, I should not be able to alter the donation inventory, because I don't want to falsify records.
 
 Given that I'm an user, when I log in, I should be able to view the donation dropoff sites.
 
@@ -24,10 +24,10 @@ Given that I'm an user, when I log in, I should not be able to alter the donatio
 
 Given that I am a location employee, I should be able to update the current inventories for only my location.
 
-Given that I am a manager, I should be able to view information at all locations.
-
 I am an admin, I want to be able to view the category with the most amount of donations in order to distribute the donations.
 
-Given that I am a manager, I want to view all information related to a location, because it is my job to oversee the activity of my locations.
+Given that I am a manager, I want to view all information related to any location, because it is my job to oversee the overall activity.
 
+Given that I am a manager, I want to modify all information related to any location, because it is my job to oversee the overall activity.
 
+Given that I am a manager, I want to add information related to any location, because it is my job to oversee the overall activity.
