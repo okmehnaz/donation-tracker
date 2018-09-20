@@ -2,7 +2,7 @@ User stories are short, simple descriptions of a feature told from the perspecti
 
 Admin: An admin can add and remove users and locations as well as unlock/lock accounts.
 User: A user is anyone who wants to use the system to view inventory or locations. They cannot actually alter any information.
-Location Employee: A location employee is someone who works at one of the dropoff sites andcan update the current inventories for his or her location.
+Location Employee: A location employee is someone who works at one of the dropoff sites and can update the current inventories for his or her location.
 Manager: Someone who can view/add/modify information at all locations.
 All user types contain the same basic information:
 •login name (in recognition of current popular trends, this can be the email address)
@@ -22,7 +22,9 @@ Given that I'm an user, when I log in, I should be able to view the donation dro
 
 Given that I'm an user, when I log in, I should not be able to alter the donation dropoff sites.
 
-Given that I am a location employee,
+Given that I am a location employee, I should be able to update the current inventories for only my location.
+
+Given that I am a manager, I should be able to view information at all locations.
 
 I am an admin, I want to be able to view the category with the most amount of donations in order to distribute the donations.
 
