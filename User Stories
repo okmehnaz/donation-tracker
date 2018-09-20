@@ -28,3 +28,4 @@ Given that I am a manager, I should be able to view information at all locations
 
 I am an admin, I want to be able to view the category with the most amount of donations in order to distribute the donations.
 
+Given that I am a manager, I want to view all information related to a location, because it is my job to oversee the activity of my assigned location.
