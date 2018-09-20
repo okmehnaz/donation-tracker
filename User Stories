@@ -23,6 +23,7 @@ As a user, when I log in, I should not be able to alter the donation dropoff sit
 
 As a location employee, I want to update the current inventories for only my location, because I keep track of activity at my location and access information pertaining to my job.
 
+OH
 As an admin, I want to be able to add and remove users and locations with Location Data Handling and Security features, to keep the app current and safe.
 
 As a manager, I want to be able to view the category with the most amount of donations in order to distribute the donations and make sure items are evenly spread and given to those who need it.
