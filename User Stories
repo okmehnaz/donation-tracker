@@ -11,23 +11,25 @@ All user types contain the same basic information:
 •contact info (email address)
 •In addition to this information, a Location Employee should be linked to their location(Employees should only be able to edit information for their specific location).
 
-
 Given that I’m a user with an active account, when I login on the website with my correct email address and password, then I should be logged in without any errors
 
-Given that I'm an user, when I log in, I should be able to view the donation inventory so that I can decide what to donate.
+Given that I'm an user, when I log in, I should be able to view the donation inventory through searching, so that I can decide what to donate and what is available.
 
 Given that I'm an user, when I log in, I should not be able to alter the donation inventory, because I don't want to falsify records.
 
-Given that I'm an user, when I log in, I should be able to view the donation dropoff sites because I want to check which location I want to go to.
+Given that I'm an user, when I log in, I should be able to view the donation dropoff sites using maps, because I want to check which location I want to go to, and see my options.
 
-Given that I'm an user, when I log in, I should not be able to alter the donation dropoff sites because that would be misleading and confusing.
+Given that I'm an user, when I log in, I should not be able to alter the donation dropoff sites, because that would be misleading and not in my scope of usage.
 
-Given that I am a location employee, I should be able to update the current inventories for only my location, because I might otherwise create false records.
+Given that I am a location employee, I should be able to update the current inventories for only my location, because I keep track of activity at my location.
 
-I am an admin, I want to be able to view the category with the most amount of donations in order to distribute the donations.
+Given that I am an admin, I want to be able to add and remove users and locations with Location Data Handling and Security features, to keep the app current and safe.
 
-Given that I am a manager, I want to view all information related to any location, because it is my job to oversee the overall activity.
+Given that I am an manager, I want to be able to view the category with the most amount of donations in order to distribute the donations.
 
-Given that I am a manager, I want to modify all information related to any location, because it is my job to oversee the overall activity.
+Given that I am a manager, I want to view and modify all information related to any location, because it is my job to oversee the overall activity and make changes as I see fit.
 
-Given that I am a manager, I want to add information related to any location, because it is my job to oversee the overall activity.
+Given that I am a manager, I want to be able to use graphs feature to see the changes and progress of donations and distributions made at my locations.
+
+
+
